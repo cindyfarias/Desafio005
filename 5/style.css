@@ -1,0 +1,79 @@
+body{
+	width: 100%;
+	margin: 0 auto;
+	font-size: 15px;
+	font-family: Arial;
+}
+
+header {
+	background-color: #76bf76;
+	color: #fff;
+	padding: 40px 0;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight: 
+}
+
+.row{
+	clear: both;
+}
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{
+	float: left;
+}
+.col-md-1{
+width: 8.3%;
+}
+
+.col-md-2{
+width: 16.6%;
+}
+
+.col-md-3{
+width: 24.9%;
+}
+
+.col-md-4{
+width: 33.2%;
+}
+
+.col-md-5{
+width: 41.5%;
+}
+
+.col-md-6{
+width: 49.8%;
+}
+
+.col-md-7{
+width: 58.1%;
+}
+
+.col-md-8{
+width: 66.4%;
+}
+
+.col-md-9{
+width: 74.7%;
+}
+
+.col-md-10{
+width: 83%;
+}
+
+.col-md-11{
+width: 91.3%;
+}
+
+.col-md-12{
+width: 99.6%;
+}
+
+.img-responsive{
+	max-width: 100%;
+}
+
+.margen {margin: 4%;}
